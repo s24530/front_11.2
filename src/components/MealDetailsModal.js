@@ -30,7 +30,6 @@ const MealDetailsModal = ({ meal, onClose }) => {
             ★
           </span>
         ))}
-        {/* Dodaj więcej informacji, jeśli potrzebujesz */}
       </div>
     </div>
   );
